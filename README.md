@@ -1,4 +1,3 @@
-# AI-Learning-Study-Assistant
 # 🎓 AI Learning & Study Assistant
 
 A lightweight, zero-API-key AI Learning Assistant built with Python, Gradio, and Scikit-Learn. It demonstrates core modern AI architecture concepts including **Retrieval-Augmented Generation (RAG)**, **Conversation Memory**, and **Task-Specific Tools** (Learning Plan Generator & Quiz Generator)—all runnable in Google Colab or locally with zero external setup required.
